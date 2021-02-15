@@ -1,0 +1,65 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.tomato-highlight{
+    color: tomato;
+}
+p{
+    color: dimgray;
+}
+.half-width{
+    width: 40%;
+    float: left; 
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+} 
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg,lightsalmon, tomato);
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
+#working-project{
+    text-align: center;
+}
+.card-width{
+    width: 24%; 
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.card-width img{
+    width: 100%;
+}
+#last-task{
+    text-align: center;
+    color: white;
+    background-color: springgreen;
+    padding: 160px 200px;
+    width:60%;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+#work-inquiry{
+    width: 60%;
+}
+#work-inquiry img{
+    width: 100%;
+    margin-left: 250px;
+}
+footer{
+    text-align: center;
+}
